@@ -1,17 +1,3 @@
-# AOARNN-HMPSN Implementation
-
-# File Structure:
-# ├── README.md
-# ├── config.py
-# ├── data_loader.py
-# ├── preprocessing.py
-# ├── feature_extractor.py
-# ├── model.py
-# ├── aoa.py
-# ├── utils.py
-# └── train.py
-
-# ==================== README.md ====================
 # An Intelligent IoT-Based Software Framework (AOARNN-HMPSN)
 
 ## Overview
